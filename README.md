@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261123/salahhamza332/world-news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 [![reward](https://make.fun/badge/news-image-20261123/salahhamza332/world-news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
-A single image that sums up the world news of Monday, 23 November 2026. The committed `entry.png` is copied byte-for-byte into the grader's output directory by a small, dependency-free Node 22 program.
+One image summing up the world news of Monday, 23 November 2026. A small, dependency-free Node 22 program copies the committed `entry.png` byte-for-byte into the grader's output directory.
 
 ## Run it
 
